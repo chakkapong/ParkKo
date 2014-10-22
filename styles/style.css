@@ -1,0 +1,29 @@
+.ladypark-contain {
+    margin: 10px auto;
+    width: 825px;
+}
+.ladypark-contain .title {
+    color: #f5689c;
+    display: block;
+    font-family: tahoma;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 15px 0;
+    text-align: center;
+}
+.ladypark-contain ul {
+    list-style: outside none none;
+}
+.ladypark-contain li {
+    background-color: #1b9864;
+    border: 1px solid #f2f2f2;
+    display: block;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    height: 150px;
+    line-height: 155px;
+    width: 150px;
+    color: #ffffff;
+    text-align: center;
+}
